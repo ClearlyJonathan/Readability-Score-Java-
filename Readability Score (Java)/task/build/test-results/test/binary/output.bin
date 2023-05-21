@@ -1,0 +1,185 @@
+[1;31m
+Start test 1[0m
+The text is: 
+�Readability is the ease with which a reader can understand a written text. In natural language, the readability of text depends on its content and its presentation. Researchers have used various factors to measure readability. Readability is more than simply legibility, which is a measure of how easily a reader can distinguish individual letters or characters from each other. Higher readability eases reading effort and speed for any reader, but it is especially important for those who do not have high reading comprehension. In readers with poor reading comprehension, raising the readability level of a text from mediocre to good can make the difference between success and failure
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+7Triggered with the word [U, N, D, E, R, S, T, A, N, D]
+.Triggered with the word [N, A, T, U, R, A, L]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+=Triggered with the word [P, R, E, S, E, N, T, A, T, I, O, N]
+:Triggered with the word [R, E, S, E, A, R, C, H, E, R, S]
+.Triggered with the word [V, A, R, I, O, U, S]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+7Triggered with the word [L, E, G, I, B, I, L, I, T, Y]
+:Triggered with the word [D, I, S, T, I, N, G, U, I, S, H]
+7Triggered with the word [I, N, D, I, V, I, D, U, A, L]
+7Triggered with the word [C, H, A, R, A, C, T, E, R, S]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+7Triggered with the word [E, S, P, E, C, I, A, L, L, Y]
+4Triggered with the word [I, M, P, O, R, T, A, N, T]
+@Triggered with the word [C, O, M, P, R, E, H, E, N, S, I, O, N]
+@Triggered with the word [C, O, M, P, R, E, H, E, N, S, I, O, N]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+7Triggered with the word [D, I, F, F, E, R, E, N, C, E]
+20
+Words: 108
+Sentences: 6
+Characters: 580
+Syllables: 196
+Polysyllables: 20
+BEnter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+5Automated Readability Index: 13 (about 17-year-olds)
+@Flesch–Kincaid readability tests: 12.84 (about 17-year-olds).
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+7Triggered with the word [U, N, D, E, R, S, T, A, N, D]
+.Triggered with the word [N, A, T, U, R, A, L]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+=Triggered with the word [P, R, E, S, E, N, T, A, T, I, O, N]
+:Triggered with the word [R, E, S, E, A, R, C, H, E, R, S]
+.Triggered with the word [V, A, R, I, O, U, S]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+7Triggered with the word [L, E, G, I, B, I, L, I, T, Y]
+:Triggered with the word [D, I, S, T, I, N, G, U, I, S, H]
+7Triggered with the word [I, N, D, I, V, I, D, U, A, L]
+7Triggered with the word [C, H, A, R, A, C, T, E, R, S]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+7Triggered with the word [E, S, P, E, C, I, A, L, L, Y]
+4Triggered with the word [I, M, P, O, R, T, A, N, T]
+@Triggered with the word [C, O, M, P, R, E, H, E, N, S, I, O, N]
+@Triggered with the word [C, O, M, P, R, E, H, E, N, S, I, O, N]
+:Triggered with the word [R, E, A, D, A, B, I, L, I, T, Y]
+7Triggered with the word [D, I, F, F, E, R, E, N, C, E]
+20
+<Simple Measure of Gobbledygook: 13.56 (about 18-year-olds).
+2Coleman–Liau index: 14.13 (about 19-year-olds).
+[1;31m
+Start test 2[0m
+The text is: 
+�This is the front page of the Simple English Wikipedia. Wikipedias are places where people work together to write encyclopedias in different languages. We use Simple English words and grammar here. The Simple English Wikipedia is for everyone! That includes children and adults who are learning English. There are 142,262 articles on the Simple English Wikipedia. All of the pages are free to use. They have all been published under both the Creative Commons License and the GNU Free Documentation License. You can help here! You may change these pages and make new pages. Read the help pages and other good pages to learn how to write pages here. If you need help, you may ask questions at Simple talk. Use Basic English vocabulary and shorter sentences. This allows people to understand normally complex terms or phrases.
+4Triggered with the word [W, I, K, I, P, E, D, I, A]
+7Triggered with the word [W, I, K, I, P, E, D, I, A, S]
+1Triggered with the word [T, O, G, E, T, H, E, R]
+@Triggered with the word [E, N, C, Y, C, L, O, P, E, D, I, A, S]
+4Triggered with the word [D, I, F, F, E, R, E, N, T]
+4Triggered with the word [L, A, N, G, U, A, G, E, S]
+4Triggered with the word [W, I, K, I, P, E, D, I, A]
+1Triggered with the word [E, V, E, R, Y, O, N, E]
+1Triggered with the word [I, N, C, L, U, D, E, S]
+1Triggered with the word [A, R, T, I, C, L, E, S]
+4Triggered with the word [W, I, K, I, P, E, D, I, A]
+4Triggered with the word [P, U, B, L, I, S, H, E, D]
+@Triggered with the word [D, O, C, U, M, E, N, T, A, T, I, O, N]
+7Triggered with the word [V, O, C, A, B, U, L, A, R, Y]
+4Triggered with the word [S, E, N, T, E, N, C, E, S]
+7Triggered with the word [U, N, D, E, R, S, T, A, N, D]
+16
+Words: 137
+Sentences: 14
+Characters: 687
+Syllables: 208
+Polysyllables: 16
+BEnter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+4Automated Readability Index: 8 (about 12-year-olds)
+?Flesch–Kincaid readability tests: 6.14 (about 11-year-olds).
+4Triggered with the word [W, I, K, I, P, E, D, I, A]
+7Triggered with the word [W, I, K, I, P, E, D, I, A, S]
+1Triggered with the word [T, O, G, E, T, H, E, R]
+@Triggered with the word [E, N, C, Y, C, L, O, P, E, D, I, A, S]
+4Triggered with the word [D, I, F, F, E, R, E, N, T]
+4Triggered with the word [L, A, N, G, U, A, G, E, S]
+4Triggered with the word [W, I, K, I, P, E, D, I, A]
+1Triggered with the word [E, V, E, R, Y, O, N, E]
+1Triggered with the word [I, N, C, L, U, D, E, S]
+1Triggered with the word [A, R, T, I, C, L, E, S]
+4Triggered with the word [W, I, K, I, P, E, D, I, A]
+4Triggered with the word [P, U, B, L, I, S, H, E, D]
+@Triggered with the word [D, O, C, U, M, E, N, T, A, T, I, O, N]
+7Triggered with the word [V, O, C, A, B, U, L, A, R, Y]
+4Triggered with the word [S, E, N, T, E, N, C, E, S]
+7Triggered with the word [U, N, D, E, R, S, T, A, N, D]
+16
+;Simple Measure of Gobbledygook: 9.24 (about 14-year-olds).
+2Coleman–Liau index: 10.66 (about 15-year-olds).
+[1;31m
+Start test 3[0m
+The text is: 
+�	Gothic architecture are building designs, as first pioneered in Western Europe in the Middle Ages. It began in France in the 12th century. The Gothic style grew out of Romanesque architecture. It lasted until the 16th century. By that time the Renaissance style of architecture had become popular. The important features of Gothic architecture are the pointed arch, the ribbed vault, the flying buttress, and stained glass windows which are explained below. Gothic architecture is best known as the style of many of the great cathedrals, abbeys and churches of Europe. It is also the architecture of many castles, palaces, town halls, universities, and also some houses. Many church buildings still remain from this period. Even the smallest Gothic churches are often very beautiful, while many of the larger churches and cathedrals are thought to be priceless works of art. Many are listed with the United Nations Educational, Scientific and Cultural Organization (UNESCO) as World Heritage Sites. In the 19th century, the Gothic style became popular again, particularly for building churches and universities. This style is called Gothic Revival architecture.
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+4Triggered with the word [P, I, O, N, E, E, R, E, D]
+7Triggered with the word [R, O, M, A, N, E, S, Q, U, E]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+:Triggered with the word [R, E, N, A, I, S, S, A, N, C, E]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+.Triggered with the word [P, O, P, U, L, A, R]
+4Triggered with the word [I, M, P, O, R, T, A, N, T]
+1Triggered with the word [F, E, A, T, U, R, E, S]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+4Triggered with the word [E, X, P, L, A, I, N, E, D]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+7Triggered with the word [C, A, T, H, E, D, R, A, L, S]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+.Triggered with the word [P, A, L, A, C, E, S]
+=Triggered with the word [U, N, I, V, E, R, S, I, T, I, E, S]
+4Triggered with the word [B, E, A, U, T, I, F, U, L]
+7Triggered with the word [C, A, T, H, E, D, R, A, L, S]
+4Triggered with the word [P, R, I, C, E, L, E, S, S]
++Triggered with the word [U, N, I, T, E, D]
+:Triggered with the word [E, D, U, C, A, T, I, O, N, A, L]
+7Triggered with the word [S, C, I, E, N, T, I, F, I, C]
+1Triggered with the word [C, U, L, T, U, R, A, L]
+=Triggered with the word [O, R, G, A, N, I, Z, A, T, I, O, N]
+1Triggered with the word [(, U, N, E, S, C, O, )]
+1Triggered with the word [H, E, R, I, T, A, G, E]
+.Triggered with the word [P, O, P, U, L, A, R]
+=Triggered with the word [P, A, R, T, I, C, U, L, A, R, L, Y]
+=Triggered with the word [U, N, I, V, E, R, S, I, T, I, E, S]
+.Triggered with the word [R, E, V, I, V, A, L]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+31
+Words: 180
+Sentences: 13
+Characters: 982
+Syllables: 316
+Polysyllables: 31
+BEnter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+5Automated Readability Index: 12 (about 16-year-olds)
+@Flesch–Kincaid readability tests: 10.53 (about 15-year-olds).
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+4Triggered with the word [P, I, O, N, E, E, R, E, D]
+7Triggered with the word [R, O, M, A, N, E, S, Q, U, E]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+:Triggered with the word [R, E, N, A, I, S, S, A, N, C, E]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+.Triggered with the word [P, O, P, U, L, A, R]
+4Triggered with the word [I, M, P, O, R, T, A, N, T]
+1Triggered with the word [F, E, A, T, U, R, E, S]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+4Triggered with the word [E, X, P, L, A, I, N, E, D]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+7Triggered with the word [C, A, T, H, E, D, R, A, L, S]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+.Triggered with the word [P, A, L, A, C, E, S]
+=Triggered with the word [U, N, I, V, E, R, S, I, T, I, E, S]
+4Triggered with the word [B, E, A, U, T, I, F, U, L]
+7Triggered with the word [C, A, T, H, E, D, R, A, L, S]
+4Triggered with the word [P, R, I, C, E, L, E, S, S]
++Triggered with the word [U, N, I, T, E, D]
+:Triggered with the word [E, D, U, C, A, T, I, O, N, A, L]
+7Triggered with the word [S, C, I, E, N, T, I, F, I, C]
+1Triggered with the word [C, U, L, T, U, R, A, L]
+=Triggered with the word [O, R, G, A, N, I, Z, A, T, I, O, N]
+1Triggered with the word [(, U, N, E, S, C, O, )]
+1Triggered with the word [H, E, R, I, T, A, G, E]
+.Triggered with the word [P, O, P, U, L, A, R]
+=Triggered with the word [P, A, R, T, I, C, U, L, A, R, L, Y]
+=Triggered with the word [U, N, I, V, E, R, S, I, T, I, E, S]
+.Triggered with the word [R, E, V, I, V, A, L]
+=Triggered with the word [A, R, C, H, I, T, E, C, T, U, R, E]
+31
+<Simple Measure of Gobbledygook: 11.95 (about 16-year-olds).
+2Coleman–Liau index: 14.14 (about 19-year-olds).
